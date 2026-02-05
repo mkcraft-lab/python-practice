@@ -1,6 +1,9 @@
 # Operational Simulation Engine (Python)
 
-業務オペレーションをモデル化したシミュレーション＋ログ監査＋KPIレポート生成ツールです。
+# The Mycologist – Operational Simulation Engine –
+
+小さな「しいたけ職員」が森の運用を守る、
+業務オペレーション・シミュレーション＋ログ監査＋KPI分析ツール。
 
 日々の業務行動をイベントとして記録し、
 CSVログ → 日次サマリ → KPIレポート まで自動生成することで、
